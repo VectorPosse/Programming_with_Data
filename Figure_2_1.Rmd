@@ -1,6 +1,6 @@
 ---
-title:  Figure 2.1
-author: Sean Raleigh
+title: "Figure 2.1"
+author: "Sean Raleigh"
 output: html_notebook
 ---
 
